@@ -1,0 +1,5 @@
+Packages:
+ hashlib
+ bcrypt
+ cryptography
+ PyQT5

@@ -4,7 +4,7 @@ This project is a simple password manager that allows users to securely store an
 
 
 
-#TO-DO:
+# To-Do:
 Password Strength Analysis: Implement a password strength analysis feature that provides feedback on the strength of entered passwords (e.g., weak, medium, strong). This will help users create more secure passwords and improve overall account security.
 
 Password Generator: Include a password generator that allows users to create strong, random passwords for new websites or services. A password generator will help users avoid using weak passwords and promote the use of complex, hard-to-guess passwords.

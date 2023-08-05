@@ -93,7 +93,7 @@ class PasswordManagerWindow(QWidget):
         # Handle password submission
         password = self.password_input.text()
 
-        # Add your logic here
+       
         site = 'site1'  # Replace with the appropriate site value
         try:
             retrieved_password = self.password_manager.get_password(site, password)

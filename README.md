@@ -1,5 +1,5 @@
 # PassMan: Password Manager with GUI
-A simple Password Manager in Python using the pyQT5 GUI to create a clean- cut user experience as well as secure password handling.
+This is a simple Password Manager in Python using the pyQT5 GUI to create a clean- cut user experience as well as secure password handling.
 This project is a simple password manager that allows users to securely store and retrieve passwords for different websites or services. The password manager uses a combination of encryption and hashing techniques to ensure the passwords are stored securely. It includes a Graphical User Interface (GUI) built with PyQt5, allowing users to interact with the password manager conveniently. The main functionalities of the password manager include creating and loading encryption keys, adding and retrieving passwords for specific websites, and handling password submissions with master password verification. The project combines the power of the and cryptography libraries for password hashing and encryption, making it a robust and secure solution for managing passwords. Users can easily add, retrieve, and secure their passwords using this password manager, providing a convenient and safe way to keep track of their login credentials.
 
 
